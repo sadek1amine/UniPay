@@ -1,0 +1,66 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/employee-app/(Branch-Manage)/Branch-Manage-Dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/employee-app/(Branch-Manage)/Branch-Manage-Dashboard/page.js"
+    ],
+    "/employee-app/(Branch-Manage)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/employee-app/(Branch-Manage)/layout.js"
+    ],
+    "/employee-app/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/employee-app/layout.css",
+      "static/chunks/app/employee-app/layout.js"
+    ],
+    "/employee-app/(Branch-Manage)/Employees2/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/employee-app/(Branch-Manage)/Employees2/page.js"
+    ],
+    "/employee-app/(Branch-Manage)/daily-operations/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/employee-app/(Branch-Manage)/daily-operations/page.js"
+    ],
+    "/client-app/(root)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/client-app/(root)/page.js"
+    ],
+    "/client-app/(root)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/client-app/(root)/layout.js"
+    ],
+    "/client-app/(auth)/sign-in/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/client-app/(auth)/sign-in/page.js"
+    ],
+    "/client-app/(auth)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/client-app/(auth)/layout.js"
+    ],
+    "/employee-app/(auth2)/sign-in2/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/employee-app/(auth2)/sign-in2/page.js"
+    ],
+    "/employee-app/(auth2)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/employee-app/(auth2)/layout.js"
+    ]
+  }
+}
