@@ -3,7 +3,7 @@
 UniPay is a complete and modern platform designed for managing bank accounts, financial transactions, and internal employee operations. It provides a **modular, secure, and scalable architecture** suitable for modern digital banking solutions.
 
 ### Home Page
-![client-app](public/screenshots/client-app)
+![client-app](public/screenshots/client-app.png)
 ---
 
 ## 🎯 **Main Features**
