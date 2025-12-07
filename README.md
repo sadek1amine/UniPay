@@ -8,22 +8,40 @@ UniPay is a complete and modern platform designed for managing bank accounts, fi
 
 ## 🎯 **Main Features**
 
+### AUTH
+![client-sign-in](public/screenshots/client-sign-ins.png)
+![client-sign-up](public/screenshots/client-sign-up.png)
+
 ### 🔹 **Client Interface**
 - Real-time balance consultation
-- ### Client Dashboard
+- ### Mes Banques
 ![client-Mes-Banques](public/screenshots/client-Mes-Banques.png)
 - Multi-account management
 - Detailed transaction history
+- ### Transactions
 - ![client-Historique-Transactio](public/screenshots/client-Historique-Transactio.png)
 - Internal & inter-bank transfers
 - Bank synchronization through **Plaid**
+- ### Transfers
  ![client-Transfert-Paiement](public/screenshots/client-Transfert-Paiement.png)
   
-
+### Manager
+![employee-Branch-Manage-Dashboard](public/screenshots/employee-Branch-Manage-Dashboard.png)
+![employee-daily-operations](public/screenshots/employee-daily-operations.png)
 ### 🔹 **Employee Interface**
 - **Teller:** day‑to‑day banking operations
 - **Manager:** supervision, branch overview & reports
 - **Administrator:** employee management, roles & permissions
+- ### AUTH
+![employee-sign-in2](public/screenshots/employee-sign-in2.png)
+- ### Teller
+- ![employee-Teller-Dashboard](public/screenshots/employee-Teller-Dashboard.png)
+- ![employee-Customers-operations](public/screenshots/employee-Customers-operations.png)
+- 
+ ### Administrator
+-  
+-  ![employee-assign-permissions2](public/screenshots/employee-assign-permissions2.png)
+-   !employee-appEmployees2](public/screenshots/employee-appEmployees2.png)
 
 ### 🔹 **Cross‑Functional Features**
 - Secure authentication (encrypted server-side sessions)
