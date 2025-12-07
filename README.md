@@ -41,7 +41,9 @@ UniPay is a complete and modern platform designed for managing bank accounts, fi
  ### Administrator
 -  
 -  ![employee-assign-permissions2](public/screenshots/employee-assign-permissions2.png)
--   !employee-appEmployees2](public/screenshots/employee-appEmployees2.png)
+-![employee-appEmployees2](public/screenshots/employee-appEmployees2.png)
+
+
 
 ### 🔹 **Cross‑Functional Features**
 - Secure authentication (encrypted server-side sessions)
