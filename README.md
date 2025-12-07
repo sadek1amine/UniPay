@@ -9,7 +9,7 @@ UniPay is a complete and modern platform designed for managing bank accounts, fi
 ## 🎯 **Main Features**
 
 ### AUTH
-![client-sign-in](public/screenshots/client-sign-ins.png)
+![client-sign-in](public/screenshots/client-sign-in.png)
 ![client-sign-up](public/screenshots/client-sign-up.png)
 
 ### 🔹 **Client Interface**
