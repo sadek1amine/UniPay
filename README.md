@@ -10,10 +10,15 @@ UniPay is a complete and modern platform designed for managing bank accounts, fi
 
 ### 🔹 **Client Interface**
 - Real-time balance consultation
+- ### Client Dashboard
+![client-Mes-Banques](public/screenshots/client-Mes-Banques.png)
 - Multi-account management
 - Detailed transaction history
+- ![client-Historique-Transactio](public/screenshots/client-Historique-Transactio.png)
 - Internal & inter-bank transfers
 - Bank synchronization through **Plaid**
+ ![client-Transfert-Paiement](public/screenshots/client-Transfert-Paiement.png)
+  
 
 ### 🔹 **Employee Interface**
 - **Teller:** day‑to‑day banking operations
